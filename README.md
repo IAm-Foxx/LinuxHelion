@@ -12,10 +12,10 @@ Linux Helion is so lightweight it can run from only 1GB of Ram and 10GB Storage!
 It comes default with;<br>
 Firefox<br>
 LXTask<br>
-Terminator Terminal<br>
-PCManFM File Manager<br>
+Yakuake Terminal<br>
+Deepin File Manager<br>
 Docky<br>
-Tint2<br>
+Latte Dock<br>
 Nitrogen<br>
 Volti<br>
 PulseAudio Volume Control
