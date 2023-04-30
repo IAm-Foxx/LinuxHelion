@@ -1,4 +1,7 @@
 # LinuxHelion
+[About](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#about)
+[How To Install (VirtualBox)](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#how-to-install-virtualbox)
+[How To Install (PC/Laptop)](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#how-to-install-on-pclaptop)
 
 ## About
 Linux Helion is a lightweight linux operating system based from Ubuntu 18.04
