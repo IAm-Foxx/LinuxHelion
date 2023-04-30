@@ -15,7 +15,7 @@ LXTask<br>
 Yakuake Terminal<br>
 PCManFM File Manager<br>
 Docky<br>
-Latte Dock<br>
+Tint2<br>
 Nitrogen<br>
 Volti<br>
 PulseAudio Volume Control
