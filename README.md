@@ -1,6 +1,6 @@
 # LinuxHelion
-[About](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#about)
-[How To Install (VirtualBox)](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#how-to-install-virtualbox)
+[About](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#about)<br>
+[How To Install (VirtualBox)](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#how-to-install-virtualbox)<br>
 [How To Install (PC/Laptop)](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#how-to-install-on-pclaptop)
 
 ## About
