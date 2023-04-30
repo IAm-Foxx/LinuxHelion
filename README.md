@@ -4,17 +4,17 @@
 [How To Install (PC/Laptop)](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#how-to-install-on-pclaptop)
 
 ## About
-Linux Helion is a lightweight linux operating system based from Ubuntu 18.04
-Linux Helion is fully customisable, you can add your own terminals, file managers and so much more!
+Linux Helion is a lightweight linux operating system based from Ubuntu 18.04<br>
+Linux Helion is fully customisable, you can add your own terminals, file managers and so much more!<br>
 Linux Helion is so lightweight it can run from only 1GB of Ram and 10GB Storage!
 
-It comes default with;
-Terminator Terminal
-PCManFM File Manager
-Docky
-Tint2
-Nitrogen
-Volti
+It comes default with;<br>
+Terminator Terminal<br>
+PCManFM File Manager<br>
+Docky<br>
+Tint2<br>
+Nitrogen<br>
+Volti<br>
 PulseAudio Volume Control
 
 
