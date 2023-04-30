@@ -13,7 +13,7 @@ It comes default with;<br>
 Firefox<br>
 LXTask<br>
 Yakuake Terminal<br>
-Deepin File Manager<br>
+PCManFM File Manager<br>
 Docky<br>
 Latte Dock<br>
 Nitrogen<br>
