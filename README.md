@@ -1,13 +1,13 @@
-# Linux Helium
+# Linux Helion
 
-[About](https://github.com/IAm-Kasper/LinuxHelium/blob/main/README.md#about)<br>
-[How To Install (VirtualBox)](https://github.com/IAm-Kasper/LinuxHelium/blob/main/README.md#how-to-install-virtualbox)<br>
-[How To Install (PC/Laptop)](https://github.com/IAm-Kasper/LinuxHelium/blob/main/README.md#how-to-install-on-pclaptop)
+[About](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#about)<br>
+[How To Install (VirtualBox)](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#how-to-install-virtualbox)<br>
+[How To Install (PC/Laptop)](https://github.com/IAm-Kasper/LinuxHelion/blob/main/README.md#how-to-install-on-pclaptop)
 
 ## About
-Linux Helium is a lightweight linux operating system based from Ubuntu 18.04<br>
-Linux Helium is fully customisable, you can add your own terminals, file managers and so much more!<br>
-Linux Helium is so lightweight it can run from only 1GB of Ram and 10GB Storage!
+Linux Helion is a lightweight linux operating system based from Ubuntu 18.04<br>
+Linux Helion is fully customisable, you can add your own terminals, file managers and so much more!<br>
+Linux Helion is so lightweight it can run from only 1GB of Ram and 10GB Storage!
 
 It comes default with;<br>
 Terminator Terminal<br>
@@ -22,7 +22,7 @@ PulseAudio Volume Control
 
 ## How To Install (VirtualBox)
 #### Setup & Account
-1. Download the latest [ISO File](https://github.com/IAm-Kasper/LinuxHelium/releases/latest)
+1. Download the latest [ISO File](https://github.com/IAm-Kasper/LinuxHelion/releases/latest)
 2. Put the file into VirtualBox under a new Virtual Machine
 3. Hit the down arrow once on your keyboard and hit enter to select "Boot system Installer"
 4. Fill out the system install menu with your desired account details
@@ -45,7 +45,7 @@ PulseAudio Volume Control
 
 ## How To Install (On PC/Laptop)
 #### Creating Bootable USB
-1. Download the latest [ISO File](https://github.com/IAm-Kasper/LinuxHelium/releases/latest)
+1. Download the latest [ISO File](https://github.com/IAm-Kasper/LinuxHelion/releases/latest)
 2. Make sure you have [Rufus](https://rufus.ie/en/) installed on your computer
 3. Plug in your USB and select it in Rufus
 4. Make sure "Boot selection" is on "Disk or ISO image" and click "SELECT" and select the Linux Helion ISO you downloaded
