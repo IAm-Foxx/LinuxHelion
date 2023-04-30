@@ -10,6 +10,8 @@ Linux Helion is fully customisable, you can add your own terminals, file manager
 Linux Helion is so lightweight it can run from only 1GB of Ram and 10GB Storage!
 
 It comes default with;<br>
+Firefox<br>
+LXTask<br>
 Terminator Terminal<br>
 PCManFM File Manager<br>
 Docky<br>
