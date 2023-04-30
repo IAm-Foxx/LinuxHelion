@@ -42,6 +42,7 @@ PulseAudio Volume Control
 #### Logging In
 1. When you get the login page click the white circle next to your username and make sure "Openbox" is selected (Not "GNOME/Openbox" just "Openbox")
 2. Now enter your password and have fun using Linux Helion!
+3. If your VM is stuck on the login image reboot your VM
 
 
 
@@ -71,3 +72,4 @@ PulseAudio Volume Control
 #### Logging In
 1. When you get the login page click the white circle next to your username and make sure "Openbox" is selected (Not "GNOME/Openbox" just "Openbox")
 2. Now enter your password and have fun using Linux Helion!
+3. If your PC/Latop is stuck on the login image reboot your PC/Laptop
